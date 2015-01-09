@@ -6,9 +6,9 @@
 
 Links to research
 
-http://www.sagmeisterwalsh.com/
+[Sagmeister and Walsh website] (http://www.sagmeisterwalsh.com/)
 
-http://design.designmuseum.org/design/stefan-sagmeister
+[Design Museum] (http://design.designmuseum.org/design/stefan-sagmeister)
 
-http://www.ted.com/talks/stefan_sagmeister_shares_happy_design?language=en
+[Tedhttp://www.ted.com/talks/stefan_sagmeister_shares_happy_design?language=en
 
