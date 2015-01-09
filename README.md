@@ -1,3 +1,3 @@
 # Stefan-Sagmeister
 
-- [Stefan Sagmeister] (http://aimeesands.github.io/stefansagmeister/Stefan-Sagmeister.html)
+- [Stefan Sagmeister] (http://http://aimeesands.github.io/Stefan-Sagmeister.html)
