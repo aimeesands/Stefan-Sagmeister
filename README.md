@@ -10,5 +10,5 @@ Links to research
 
 [Design Museum] (http://design.designmuseum.org/design/stefan-sagmeister)
 
-[Tedhttp://www.ted.com/talks/stefan_sagmeister_shares_happy_design?language=en
+[Ted Talks] (http://www.ted.com/talks/stefan_sagmeister_shares_happy_design?language=en)
 
