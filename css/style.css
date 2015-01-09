@@ -1,0 +1,137 @@
+<!-- external Style Sheet --> 
+   
+     body {
+        background: #85d8dd
+        color: #400D0C;
+        padding:100;
+        font-size: 20px;
+    }
+    
+    h1 {
+        font-family: 'Special Elite', cursive;
+        font-size: 70px;
+        text-align: center;
+        text-transform: uppercase
+        
+        
+        
+    }
+    
+    h2, h3 {
+        font-family: 'Slabo 27px', serif;
+        font-size: 30px;
+        font-weight: normal;
+        text-align: center;
+        margin: 10px 0 10px 0;
+    }
+     
+        
+    h2 {
+        font-size: 30px;
+        
+    }
+
+    p {
+       font-family: 'Slabo 27px', serif;
+        font-size: 18px;
+        font-weight: normal;
+        text-align: center;
+        margin: 30px 0 30px 0;
+    
+    }
+    
+    .intro {
+        font-style: italic;
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    article {    
+        min-width: 300px;
+        max-width: 900px;
+        margin: auto;
+    }
+    a {
+        font-family: 'Slabo 27px', serif;
+        color: grey;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        align: center;
+    }
+    
+    a:hover {
+        color: #870710;
+    }
+    
+    nav {
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+    }
+        
+    nav ul {
+        text-align: center;
+        list-style-type: circle;
+    }
+    
+    nav ul li {
+        display: inline;
+        margin: 10px;
+    
+    }
+    
+    img {
+        display: block;
+        margin: 0 auto;
+    }
+    
+    img.avatar {
+    margin-bottom: 30px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+    
+    } 
+    .social a {
+    opacity: 0.3;
+    transition: opacity .25s ease-in-out;
+   <!---moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;-->
+        
+    }
+
+    .social a:hover {
+    opacity: 0.8;
+    
+    }
+
+    .social li {
+    display: inline;
+    margin: 5px;
+    color: #444;
+        
+    }
+
+    .social li img {
+    width: 50px;
+    
+    }
+    
+    .container {
+    width: 600px;
+    margin: 100px auto 25px;
+    background-color: #85d8dd
+    padding: 0 60px 30px;
+    border-radius: 6px;
+     
+    }
+
+    .social {
+    margin-top: 60px;
+    text-align: center;
+    }
+
+    footer {
+    margin-top: 30px;
+    
